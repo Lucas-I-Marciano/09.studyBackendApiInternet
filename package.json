@@ -1,0 +1,16 @@
+{
+  "name": "api-stock",
+  "version": "1.0.0",
+  "description": "API desenvolvida no curso JavaScipt Impressionador da Hashtag Treinamentos",
+  "main": "2.app.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node --watch ./2.app.mjs"
+  },
+  "author": "Lucas Marciano",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "body": "^5.1.0"
+  }
+}
